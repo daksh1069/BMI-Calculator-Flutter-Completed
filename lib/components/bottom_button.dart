@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:bmi_calculator/constants.dart';
+import 'icon_content.dart';
 
 class BottomButton extends StatelessWidget {
   BottomButton({@required this.onTap, @required this.buttonTitle});
