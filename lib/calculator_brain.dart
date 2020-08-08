@@ -1,4 +1,5 @@
 import 'dart:math';
+import 'components/icon_content.dart';
 
 class CalculatorBrain {
   CalculatorBrain({this.height, this.weight});
